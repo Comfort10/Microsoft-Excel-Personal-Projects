@@ -20,9 +20,7 @@ Main goal of this project
 
 ## Dataset
 
-Source: 
-
-This dataset is taken from Kaggle (https://www.kaggle.com/datasets/prasad22/healthcare-dataset).
+Source: This dataset is taken from Kaggle (https://www.kaggle.com/datasets/prasad22/healthcare-dataset).
 
 
 Number of records: 55 501
