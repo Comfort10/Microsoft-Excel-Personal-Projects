@@ -20,9 +20,12 @@ Main goal of this project
 
 ## Dataset
 
-Source
+Source: 
 
-Number of records
+This dataset is taken from Kaggle (https://www.kaggle.com/datasets/prasad22/healthcare-dataset).
+
+
+Number of records: 55 501
 
 Data Cleaning Features Used
 
