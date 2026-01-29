@@ -19,11 +19,14 @@ Main goal of this project
 Source: This dataset is taken from Kaggle (https://www.kaggle.com/datasets/prasad22/healthcare-dataset).
 
 
-Number of records: 55 501
+Number of records: 55 501 (54 966 after removing duplicates)
 
-## Data Cleaning Features Used:
-Functions:
-Features: 
+
+
+## Data Cleaning Features Used
+Functions: TRIM, PROPER, 
+
+Features: Remove Duplicates, 
 
 How I built it 
 
