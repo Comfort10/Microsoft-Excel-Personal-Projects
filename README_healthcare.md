@@ -24,7 +24,7 @@ Number of records: 55 501 (54 966 after removing duplicates)
 
 
 ## Data Cleaning Features Used
-Functions: TRIM, PROPER, 
+Functions: TRIM, PROPER, XLOOKUP, ROUND
 
 Features: Remove Duplicates, 
 
