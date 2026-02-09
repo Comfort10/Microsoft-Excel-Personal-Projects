@@ -21,6 +21,8 @@ Source: This dataset is taken from Kaggle (https://www.kaggle.com/datasets/prasa
 
 Number of records: 55 501 (54 966 after removing duplicates)
 
+Columns Removed: Hospital
+
 
 
 ## Data Cleaning Features Used
