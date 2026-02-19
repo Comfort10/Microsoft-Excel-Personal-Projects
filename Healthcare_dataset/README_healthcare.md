@@ -22,7 +22,7 @@ Source: This dataset is taken from Kaggle (https://www.kaggle.com/datasets/prasa
 Number of records: 55 501 (54 966 after removing duplicates)
 
 Columns Removed: Hospital
-Columns Added: Length of Stay (in months), Numeric Age Category, Descriptive Age Category (Youth, Adult, Old, Senior)
+Columns Added: Length of Stay (in months), Age Category, Descriptive Age Category (Youth, Adult, Old, Senior)
 
 
 
