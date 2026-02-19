@@ -39,7 +39,7 @@ How I built it
 ## Challenges
 Challenge 1:
 
-I tried to use the XLOOKUP function to come up with the two Age Category columns after converting the data from range to a table. After applying the function, all I go where SPILLS, I then converted the table back to a range to perform the function again and it worked perfectly. 
+I tried to use the XLOOKUP function to come up with the two Age Category columns after converting the data from range to a table. After applying the function, all I got were SPILLS, I then converted the table back to a range to perform the function again and it worked perfectly. 
 
 
 
