@@ -26,7 +26,7 @@ Columns Removed: Hospital
 
 
 ## Data Cleaning Features Used
-Functions: TRIM, PROPER, XLOOKUP, ROUND
+Functions: TRIM, PROPER, ROUND
 
 Features: Remove Duplicates, 
 
