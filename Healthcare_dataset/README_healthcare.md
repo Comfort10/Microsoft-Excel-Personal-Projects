@@ -12,7 +12,7 @@ Main goal of this project
 
 
 ## Tools Used
-Microsoft Excel: PivotTables, Conditional Formatting, Data Validation, Slicers, PivotCharts
+Microsoft Excel: PivotTables, Conditional Formatting, Data Validation, Slicers, PivotCharts, Power Query
 
 ## Dataset
 
